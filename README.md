@@ -1,2 +1,3 @@
-# vue-random-gravatars
-Created with CodeSandbox
+# vue-virtual-list
+
+Vue virtual scroll list example
