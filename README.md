@@ -1,3 +1,3 @@
-# vue-virtual-list
+# vue-random-gravatars
 
-Vue virtual scroll list example
+Custom generate random gravatars
